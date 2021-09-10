@@ -1,0 +1,10 @@
+.brand {
+    font-size: large;
+    color: white;
+}
+
+.footer {
+    max-height: 20px;
+    background-color: black;
+    color: white;
+}
